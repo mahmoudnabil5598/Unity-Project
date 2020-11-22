@@ -1,0 +1,16 @@
+Models 
+1)fence 
+2)Chair 
+3)Car
+
+Animations
+I will do 2 Animations with the car The first animation is when the car move forward
+and the second animation when the car move left.
+
+I will make the MainMenu,Pause,Options and GameOver.
+
+music counting Score  
+
+
+
+
